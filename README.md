@@ -7,14 +7,14 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 
 ## ✅ Respuestas
 
-### 🧪 ¿Qué hice aquí?
+ 🧪 ¿Qué hice aquí?
 (Respuesta)
 
-### 😮 ¿Qué es GitHub?
-(Respuesta)
+ 😮 ¿Qué es GitHub?
+
 
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
+
 
 ---
 
